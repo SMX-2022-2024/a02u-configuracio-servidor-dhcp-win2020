@@ -1,6 +1,12 @@
 # Configuració d'un servidor DHCP a Win 2020 Server
 
-> ## MP07 UF01 A02U - Activitat 2
+<td class="icon">
+    <div class="title">
+        <h3>
+            :information_source: MP07 UF01 <b>A02U - Activitat 2</b>
+        </h3>
+    </div>
+</td>
 
 ## Objectiu
 
